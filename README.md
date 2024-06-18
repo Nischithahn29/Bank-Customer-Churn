@@ -1,5 +1,8 @@
 **Churning bank customers**
-• Every bank wants to hold their customers for sustaining their business, so is this Anonymous Multinational bank. We have customer data of account holders at Anonymous Multinational Bank with the aim of understanding the customer churn
+
+link to Jupyter Notebook - http://localhost:8888/notebooks/Bank%20Customer%20Churn.ipynb
+
+• Every bank wants to hold their customers accountable for sustaining their business, and so is this Anonymous Multinational bank. We have customer data of account holders at Anonymous Multinational Bank to understand the customer churn
 
 • Exploring the correlation between variables such as credit score, age, tenure, balance, and geography with customer churn.
 
@@ -13,9 +16,9 @@
 
 **DATA DESCRIPTION:**
 
-RowNumber — corresponds to the record (row) number and has no effect on the output.
+RowNumber — corresponds to the record (row) number and does not affect the output.
 
-CustomerId — contains random values and has no effect on customer leaving the bank.
+CustomerId — contains random values and has no effect on customers leaving the bank.
 
 Surname — the surname of a customer has no impact on their decision to leave the bank.
 
