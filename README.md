@@ -1,5 +1,7 @@
 **Churning bank customers**
 
+![1647940360448](https://github.com/Nischithahn29/Bank-Customer-Churn/assets/139593702/0ffba387-ff1e-4119-9cef-2926362005c0)
+
 link to Jupyter Notebook - http://localhost:8888/notebooks/Bank%20Customer%20Churn.ipynb
 
 • Every bank wants to hold their customers accountable for sustaining their business, and so is this Anonymous Multinational bank. We have customer data of account holders at Anonymous Multinational Bank to understand the customer churn
