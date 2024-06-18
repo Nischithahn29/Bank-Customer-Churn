@@ -1,4 +1,4 @@
-Churning bank customers
+**Churning bank customers**
 • Every bank wants to hold their customers for sustaining their business, so is this Anonymous Multinational bank. We have customer data of account holders at Anonymous Multinational Bank with the aim of understanding the customer churn
 
 • Exploring the correlation between variables such as credit score, age, tenure, balance, and geography with customer churn.
@@ -11,7 +11,7 @@ Churning bank customers
 
 • This project provides an opportunity to enhance customer retention strategies by uncovering patterns and insights within the dataset.
 
-DATA DESCRIPTION:
+**DATA DESCRIPTION:**
 
 RowNumber — corresponds to the record (row) number and has no effect on the output.
 
